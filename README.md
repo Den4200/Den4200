@@ -9,4 +9,4 @@ Learn more about me on [my website](https://dennispham.me/).
 <hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Den4200&count_private=true&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Den4200&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Den4200&layout=compact&card_width=250&hide_border=true"/>
