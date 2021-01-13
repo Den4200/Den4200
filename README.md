@@ -6,10 +6,10 @@ I'm very passionate about computer science and software development, striving to
 
 Learn more about me on [my website](https://dennispham.me/).
 
-[![1]](https://dennispham.me)
-[![2]](https://www.discord.gg/python)
-[![3]](mailto:dennis@dennispham.me)
-[![4]](https://www.linkedin.com/in/dennispham0)
+[![Website][1]](https://dennispham.me)
+[![Discord][2]](https://www.discord.gg/python)
+[![Email][3]](mailto:dennis@dennispham.me)
+[![LinkedIn][4]](https://www.linkedin.com/in/dennispham0)
 
 <hr>
 
