@@ -1,7 +1,8 @@
 ### Hey there, I'm Dennis 👋
-I'm very passionate about computer science and software development, striving to learn more everyday. 
-- Lots of experience in Python 🐍, Rust 🦀, and TypeScript 🇹🇸.
-- Administrator of [Python Discord](https://git.pydis.com/), a Discord community with over 350,000 members, creating new developers and serving the Python ecosystem
+I'm very passionate about software engineering and Kubernetes, striving to learn more everyday. 
+- Lots of experience in Python <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="20" />, Rust <img src="https://www.rust-lang.org/logos/rust-logo-32x32.png" height="20" />, and TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="20" />.
+- Kubernetes <img src="https://github.com/kubernetes.png" height="20" /> and Cloud Native <img src="https://github.com/cncf.png" height="20" /> Enthusiast 
+- Platform Engineer @ Rolls-Royce <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rolls_royce_holdings_logo.svg/1200px-Rolls_royce_holdings_logo.svg.png" height="20" />
 - Unrelated, but I also love playing guitar 🎸
 
 Learn more about me on [my website](https://dennispham.me/).
