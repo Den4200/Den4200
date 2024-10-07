@@ -1,8 +1,8 @@
 ### Hey there, I'm Dennis 👋
 I'm very passionate about software engineering and Kubernetes, striving to learn more everyday. 
-- Lots of experience in Python <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="16" />, Rust <img src="https://www.rust-lang.org/logos/rust-logo-16x16.png" height="16" />, and TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="16" />.
+- Lots of experience in Python <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" height="16" />, Rust <img src="https://www.rust-lang.org/logos/rust-logo-16x16.png" height="16" />, and TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="16" />.
 - Kubernetes <img src="https://github.com/kubernetes.png" height="16" /> and Cloud Native <img src="https://github.com/cncf.png" height="16" /> Enthusiast 
-- Platform Engineer @ Rolls-Royce <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rolls_royce_holdings_logo.svg/1200px-Rolls_royce_holdings_logo.svg.png" height="16" />
+- Software Engineer @ Rolls-Royce <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rolls_royce_holdings_logo.svg/1200px-Rolls_royce_holdings_logo.svg.png" height="16" />
 - Unrelated, but I also love playing guitar 🎸
 
 Learn more about me on [my website](https://dennispham.me/).
