@@ -2,7 +2,7 @@
 I'm very passionate about software engineering and Kubernetes, striving to learn more everyday. 
 - Lots of experience in Python <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" height="16" />, Rust <img src="https://www.rust-lang.org/logos/rust-logo-16x16.png" height="16" />, and TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png" height="16" />.
 - Kubernetes <img src="https://github.com/kubernetes.png" height="16" /> and Cloud Native <img src="https://github.com/cncf.png" height="16" /> Enthusiast 
-- Software Engineer @ Rolls-Royce <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Rolls_royce_holdings_logo.svg" height="16" />
+- Platform Engineering Lead @ Rolls-Royce <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Rolls_royce_holdings_logo.svg" height="16" />
 - Unrelated, but I also love playing guitar 🎸
 
 Learn more about me on [my website](https://dennispham.me/).
